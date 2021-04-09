@@ -3,7 +3,7 @@ layout: post
 title: "Policy as Computation"
 date: 02-04-2021
 ---
-##Definition of terms
+## Definition of terms
 
 There are four types of collective decisions:
 
@@ -23,7 +23,9 @@ Moreover, the term “convincing” is doing a lot of heavy lifting here, but le
 Operational questions can become policy questions and vice-versa, as new knowledge is becomes available.
 Policy questions are computationally irreducible
 
-You can identify policy questions by the fact that the extremes are the most comfortable and commonly held opinions on them, because computing and explaining the nuances is too complex. You don’t have this for vaccines for instance. Being an absolute antivaxxer or unequivocally accepting all vaccines are fringe opinions at best, but the most intellectually comfortable, and easily communicable position on, say, academic research, is that it is either all useless or all equally important and valuable. In newly independent Algeria, it was decided that what the country needed most were engineers and technicians. We ended up with excellent scientific and technical Universities, at the expense of humanities, social sciences, management. We now have a country that barely knows itself and what to do with its engineers.
+You can identify policy questions by the fact that the extremes are the most comfortable and commonly held opinions on them, because computing and explaining the nuances is too complex. You don’t have this for vaccines for instance. Being an absolute antivaxxer or unequivocally accepting all vaccines are fringe opinions at best, but the most intellectually comfortable, and easily communicable position on, say, academic research, is that it is either all useless or all equally important and valuable. 
+
+In newly independent Algeria, it was decided that what the country needed most were engineers and technicians. We ended up with excellent scientific and technical Universities, at the expense of humanities, social sciences, management. We now have a country that barely knows itself and what to do with its engineers.
 
 Questions in categories 3. and 4. are typically there because they are computationally irreducible. The best way to answer them is to run the experiment, using the real world as a computer, over a long period of time. Before that the answer is a matter of faith.
 
