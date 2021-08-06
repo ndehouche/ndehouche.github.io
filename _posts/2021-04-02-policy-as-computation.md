@@ -40,7 +40,7 @@ Mandates are not long enough to fully run the experiments and actually benefit f
 
 The answers to policy questions often come in vague packages (red and blue team, with just an evocation of what the actual policy questions they are interested in, and you fill in the blanks about what their actual policy answers might be, taken to an extreme, this gives “Obama is nice and for peace because he is black, Nobel prize!”).
 
-Political platforms often come in the form of answers to old questions (Communism vs Capitalism, a majority of Algerian politician running on anticolonial platforms, 60 years after decolonization).
+Political platforms often come in the form of answers to old questions (Communism vs Capitalism, a majority of Algerian politicians running on anticolonial platforms, 60 years after decolonization).
 
 Questions can be artificially promoted from operational to political. E.g. Sarkozy let French suburbs burn in 2005 to get elected in 2006.
 
