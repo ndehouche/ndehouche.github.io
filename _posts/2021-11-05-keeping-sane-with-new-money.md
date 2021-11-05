@@ -16,6 +16,7 @@ The old heuristics of no more than 10-15% of your assets in speculative investme
 
 One rule I have adopted, in the midst of this craziness, is to only branch into a new, speculative form of money once the current form yields enough to cover my investment in the previous form. It is simpler to see with an example:
 1. Invest x USD to buy y BTC.
-2. Only invest in ETH if your BTC investment yields at least x USD and y BTC. 
+2. Only invest in ETH if your BTC investment yields at least x USD + y BTC. 
 3. Save those and invest z in ETH, where z=total capital - x USD - y BTC.
 4. Repeat for new promising form of money, with z as a baseline.
+
